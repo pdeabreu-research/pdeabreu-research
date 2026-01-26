@@ -15,4 +15,4 @@ I build theory-informed tools and analytic systems, increasingly using **computa
 - Reproducible pipelines (data → analysis → reporting)
 
 **Selected work (pinned below)**
-- (Add 2–4 repos here once created)
+- 2–4 repos below:

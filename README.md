@@ -1,16 +1,18 @@
-## Hi there 👋
+# Pedro De Abreu
 
-<!--
-**pdeabreu-research/pdeabreu-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research-driven systems builder at the intersection of **Artificial Intelligence**, **Organizations**, and **Motivated Cognition**.
 
-Here are some ideas to get you started:
+I build theory-informed tools and analytic systems, increasingly using **computational methods** and **large language models** to study decision-making in complex, high-stakes institutional environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Links**
+- Website: https://pedrodeabreu.ai
+- ORCID: https://orcid.org/0009-0006-2931-2173
+- GitHub: https://github.com/pdeabreu-research
+
+**Current focus**
+- Research tooling for organizational decision-making and hierarchy dynamics  
+- Local-first AI workflows for document analysis, reasoning, and structured outputs  
+- Reproducible pipelines (data → analysis → reporting)
+
+**Selected work (pinned below)**
+- (Add 2–4 repos here once created)

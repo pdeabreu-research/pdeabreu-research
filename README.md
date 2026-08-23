@@ -6,21 +6,25 @@ I build theory-informed research tools and governance demonstrations for complex
 
 ## Selected work
 
-### Agentic AI Governance & LLM Reasoning Safety
-**[document-reasoning-safety-demo](https://github.com/pdeabreu-research/document-reasoning-safety-demo)**
+### Agentic AI Governance Demo
+**[agentic-ai-governance-demo](https://github.com/pdeabreu-research/agentic-ai-governance-demo)**
 
-A public, synthetic portfolio connecting Responsible AI risk framing to operational controls. Includes a runnable Python governance sandbox demonstrating:
+A runnable, dependency-free Python governance sandbox demonstrating how Responsible AI requirements can be translated into inspectable runtime controls:
 
 - role-based / least-privilege tool permissions
 - policy-configured risk tiers and bounded autonomy
 - explicit human approval gates for high-impact actions
-- system instructions and configuration files
+- system instructions and declarative configuration
 - JSONL audit logging and runtime telemetry
 - field-level redaction and data minimization
 - deny-by-default behavior and an emergency kill switch
+- synthetic tool execution with no external side effects
 - automated governance tests and GitHub Actions CI
 
-The repository also includes conceptual LLM reasoning-safety artifacts focused on evidence grounding, uncertainty, escalation, human review, and auditability.
+### LLM Document Reasoning Safety
+**[document-reasoning-safety-demo](https://github.com/pdeabreu-research/document-reasoning-safety-demo)**
+
+A complementary Responsible AI design portfolio focused on **evidence grounding, uncertainty labeling, separation of extraction from interpretation, human review, escalation boundaries, and auditability** in high-stakes LLM-assisted document reasoning.
 
 ### Statistical Analysis Portfolio
 **[pdeabreu-statistical-analyses](https://github.com/pdeabreu-research/pdeabreu-statistical-analyses)**

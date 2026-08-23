@@ -20,6 +20,7 @@ A runnable, dependency-free Python governance sandbox demonstrating how Responsi
 - deny-by-default behavior and an emergency kill switch
 - synthetic tool execution with no external side effects
 - automated governance tests and GitHub Actions CI
+- illustrative control mapping to **NIST AI RMF 1.0**, the **NIST Generative AI Profile**, and selected **EU AI Act** governance concepts
 
 ### LLM Document Reasoning Safety
 **[document-reasoning-safety-demo](https://github.com/pdeabreu-research/document-reasoning-safety-demo)**
